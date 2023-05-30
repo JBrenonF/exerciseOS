@@ -2,6 +2,7 @@ package exercise5;
 
 import java.util.Scanner;
 // new project done.
+// added new comment.
 public class PythagorianTheorem {
 	public static void main(String[] args) {
 		String tryAgain = "y";
